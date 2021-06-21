@@ -4,10 +4,12 @@
 ## Overview of Project
 Client has requested an analysis that can be performed on-demand with 12 specific stock tickers in the green energy sector.
 
-After inital project was delivered, client wanted to have the flexability to analyize multiple tickers as needed across the entire stock market. This would require more efficient code to minimize runtime of the tool.
+After inital project was delivered, client wanted to have the flexability to analyize multiple tickers as needed across the entire stock market.
+
+After review, the analyst found that to work with much larger datasets, a new, refactored code is required to run more efficiently to minimize runtime of the tool.
 
 ## Results
-The client's request to work with much larger datasets exposed code that required refactoring to run more efficiently and quickly. Overall performance with refactored code was improved by approximately 138%.
+Overall performance with refactored code was improved by approximately 138%.
 
 The code was made more efficient by consolidating nested loops, leveraging arrays for data handling, and formatting the output within the main subroutine as opposed to calling a secondary subroutine.
 
