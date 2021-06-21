@@ -15,7 +15,7 @@ The code intitially provided ran on 12 stock tickers and used coding that was qu
 
 When the client wanted to run more stock tickers, and indeed the stock market in general, the code was refactored to effectively meet the client's request.
 
-##Original Code vs Refactored Code Runtimes
+## Original Code (left) vs Refactored Code (right) Runtimes
 ![2017](Resources/VBA_Challenge_2017.png)
 
 ![2018](Resources/VBA_Challenge_2018.png)
