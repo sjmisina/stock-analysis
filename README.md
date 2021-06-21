@@ -2,11 +2,9 @@
 
 
 ## Overview of Project
-Client has requested an analysis that can be performed on-demand with 12 specific stock tickers in the green energy sector.
+Client has requested an analysis that can be performed on-demand with 12 specific stock tickers in the green energy sector. After project was delivered, client requested the flexability to analyize multiple tickers as needed across the entire stock market.
 
-After inital project was delivered, client wanted to have the flexability to analyize multiple tickers as needed across the entire stock market.
-
-After review, the analyst found that to work with much larger datasets, a new, refactored code is required to run more efficiently to minimize runtime of the tool.
+After review, the analyst found that to work with much larger datasets, a new, refactored code would run more efficiently to minimize runtime of the tool.
 
 ## Results
 Overall performance with refactored code was improved by approximately 138%.
