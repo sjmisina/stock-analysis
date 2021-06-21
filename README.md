@@ -18,6 +18,6 @@ When the client wanted to run more stock tickers, and indeed the stock market in
 ## Summary
 Overall performance was improved by approximately 138% with refactored code.
 
-Although the advantages of the original code is speed to develop and deliver, basic coding techniques were used. The provided dataset is relatively small at only 12 stock tickers, and was performed in well under a second - an acceptable time frame.
+The advantage of the original code is speed to develop and deliver using simple VBA coding. The provided dataset is relatively small with only 12 stock tickers, and was performed in well under a second - an acceptable time frame.
 
-The disadvantage of this code is working with larger and larger data sets with many more ticker symbols. Although refactoring takes a bit more time to develop and requires knowledge of more sophisticated techniques, the output is markedly faster though executing code that is considerably more efficient. This will be evident when working with large datasets for multiple stock tickers, per the client's request.
+The disadvantage of this code is working with larger and larger data sets with many more ticker symbols. Although refactoring takes a bit more time to develop and requires knowledge of more sophisticated techniques, the output is markedly faster though code that is more efficient. This will be evident when working with large datasets for multiple stock tickers, as per the client's request.
