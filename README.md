@@ -1,5 +1,5 @@
 # VBA of Wall Street
-Unit 1, Module 2
+
 
 ## Overview of Project
 Client has requested an analysis that can be performed on-demand with 12 specific stock tickers in the green energy sector.
@@ -16,5 +16,8 @@ When the client wanted to run more stock tickers, and indeed the stock market in
 ![2018](Resources/VBA_Challenge_2018.png)
 
 ## Summary
-There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
-There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
+Overall performance was improved by approximately 138% with refactored code.
+
+Although the advantages of the original code is speed to develop and deliver, basic coding techniques were used. The provided dataset is relatively small at only 12 stock tickers, and was performed in well under a second - an acceptable time frame.
+
+The disadvantage of this code is working with larger and larger data sets with many more ticker symbols. The refactoring takes a bit more time to develop and requires knowledge of more sophisticated techniques. The outcome is markedly faster executing code that will take considerably less time which will be evident when working with large datasets for multiple stock tickers.
