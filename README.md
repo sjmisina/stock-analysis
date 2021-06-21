@@ -13,8 +13,6 @@ When the client wanted to run more stock tickers, and indeed the stock market in
 
 ### Original Code (left) vs Refactored Code (right) Runtimes
 ![2017](Resources/VBA_Challenge_2017.png)
-
-
 ![2018](Resources/VBA_Challenge_2018.png)
 
 ## Summary
