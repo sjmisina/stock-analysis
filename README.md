@@ -9,9 +9,9 @@ After inital project was delivered, client wanted to have the flexability to ana
 ## Results
 Overall performance was improved by approximately 138% with refactored code.
 
-The initial analysis tool delivered needed to perfom on only 12 stock tickers, and used coding that was appropriate to provide analysis in a reasonable elapsed time.
+The initial analysis tool needed to perfom on only 12 stock tickers, so code that was quick to develop and provided analysis in a reasonable elapsed time was developed.
 
-The client then requested the flexibility to anlalize many more stock tickers, the code was refactored to effectively meet the client's request with a minimized run-time.
+The client then requested the flexibility to anlalize many more stock tickers; therefore, the code was refactored to effectively work with larger data sets with a minimized run-time.
 
 ### Original Code (left) vs Refactored Code (right) Runtimes
 ![2017](Resources/VBA_Challenge_2017.png)
