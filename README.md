@@ -1,14 +1,10 @@
-# stock-analysis
-There is a title, and there are multiple paragraphs (2 pt).
-Each paragraph has a heading (2 pt).
-There are subheadings to break up text (2 pt).
-Links are working, and images are formatted and displayed where appropriate (2 pt).
-
+# VBA of Wall Street
+Unit 1, Module 2
 
 # Overview of Project
 Client has requested an analysis that can be performed on-demand with stock tickers in the green energy sector.
 
-After project was delivered, client wanted to expand the analysis tool to cover the entire stock market. This would require most efficient code to minimize runtime of the tool
+After project was delivered, client wanted to have the flexability cover multiple tickers as needed across the entire stock market. This would require most efficient code to minimize runtime of the tool
 
 # Results
 The code intitially provided ran on 12 stock tickers and used coding that was quick to provide and would provide analysis in a reasonable elapsed time.
