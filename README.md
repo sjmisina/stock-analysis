@@ -14,10 +14,9 @@ After project was delivered, client wanted to expand the analysis tool to cover 
 The code intitially provided ran on 12 stock tickers and used coding that was quick to provide and would provide analysis in a reasonable elapsed time.
 
 When the client wanted to run more stock tickers, and indeed the stock market in general, the code was refactored to effectively meet the client's request.
-![2017]
+![2017](Resources/VBA_Challenge_2017.png)
 
-![2018]
-
+![2018](Resources/VBA_Challenge_2018.png
 
 Summary
 There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
