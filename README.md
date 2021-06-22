@@ -12,7 +12,7 @@ Overall performance with refactored code was improved by ~ 80%.
 The code was made more efficient by consolidating nested loops, leveraging arrays for data handling, and formatting the output within the main subroutine as opposed to calling a secondary subroutine.
 
 ### Original Code (left) vs Refactored Code (right) Runtimes
-
+![2017](Resources/VBA_Challenge_2017.png)
 
 ## Summary
 The advantage of the original code is speed to develop and deliver by using simple VBA coding. The provided dataset is relatively small with only 12 stock tickers, and was performed in well under a second - an acceptable time frame.
