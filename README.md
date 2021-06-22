@@ -13,6 +13,7 @@ The code was made more efficient by consolidating nested loops, leveraging array
 
 ### Original Code (left) vs Refactored Code (right) Runtimes
 ![2017](Resources/VBA_Challenge_2017.png)
+![2018](Resources/VBA_Challenge_2018.png)
 
 ## Summary
 The advantage of the original code is speed to develop and deliver by using simple VBA coding. The provided dataset is relatively small with only 12 stock tickers, and was performed in well under a second - an acceptable time frame.
